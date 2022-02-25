@@ -1,0 +1,1041 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Virtue and science pindarick poems dedicated to the Most Illustrious Princess Anne, Dutchess of Richmond and Lenox, and to her sister, the Right Honourable Frances, Countess of Newburgh / by J.S.</title>
+            <author>J. S. (James Shute), 1664-1688.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 57 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60174</idno>
+            <idno type="STC">Wing S3713B</idno>
+            <idno type="STC">ESTC R26919</idno>
+            <idno type="EEBO-CITATION">09581324</idno>
+            <idno type="OCLC">ocm 09581324</idno>
+            <idno type="VID">43712</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60174)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43712)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1340:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Virtue and science pindarick poems dedicated to the Most Illustrious Princess Anne, Dutchess of Richmond and Lenox, and to her sister, the Right Honourable Frances, Countess of Newburgh / by J.S.</title>
+                  <author>J. S. (James Shute), 1664-1688.</author>
+               </titleStmt>
+               <extent>[2], 17 [i.e. 20] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43712:1" rendition="simple:additions"/>
+            <p>VIRTUE AND SCIENCE.</p>
+            <p>
+               <hi>Pindarick Poems.</hi>
+            </p>
+            <p>DEDICATED To the Moſt Illuſtrious PRINCESS, ANNE, <hi>Dutcheſs of RICHMOND and LENOX,</hi> AND To Her Siſter, The Right Honourable, FRANCES, Counteſs of NEWBURGH.</p>
+            <p>By <hi>J. S.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1695.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:43712:2" rendition="simple:additions"/>
+            <pb facs="tcp:43712:2"/>
+            <head>PREFACE.</head>
+            <head type="sub">To the Judicious and Pious READER.</head>
+            <p>THat Virtue, <hi>or the Love of Heaven above all things,</hi> is a ne<g ref="char:EOLhyphen"/>ceſſary Requiſite to the Attainment of Salvation, and the High Road to Beatitude, is the conſtant Judgment of all thoſe, who are not meer <hi>Libertines,</hi> or <hi>Deiſts;</hi> nor can any doubt but <hi>Faith</hi> is al<g ref="char:EOLhyphen"/>ſo neceſſary, except thoſe <hi>Naturaliſts,</hi> who deny all <hi>Divine Revelation.</hi> For, How can any man <hi>Love</hi> Coeleſtial Goods, if he does not firſt in ſome manner <hi>know</hi> them? And, How can the Generality of Mankind <hi>know</hi> things <hi>Un<g ref="char:EOLhyphen"/>ſeen</hi> and <hi>above</hi> the pitch of their <hi>Natural Reaſon,</hi> but by way of <hi>Authori<g ref="char:EOLhyphen"/>ty;</hi> that is, by <hi>Faith,</hi> or the Believing others who <hi>do know</hi> them?</p>
+            <p>But yet, meer <hi>Faith</hi> is not alone ſufficient for that Great End: St. <hi>James</hi> aſſures us, that <hi>Faith without Works is Dead;</hi> and <hi>Life</hi> being the Princi<g ref="char:EOLhyphen"/>ple of <hi>Action</hi> or <hi>Motion,</hi> we cannot <hi>move</hi> or <hi>Promote</hi> our ſelves towards Heaven, by that which is <hi>Dead</hi> or <hi>without Life.</hi> Wherefore the Endeavours of all Spiritual Directours are employ'd in rendring Faith <hi>Lively</hi> and <hi>Ope<g ref="char:EOLhyphen"/>rative;</hi> and this can only be perform'd, by making it more <hi>Clear,</hi> and more <hi>Familiar</hi> to our Conceptions; that ſo the <hi>Obſcurity</hi> of it may not <hi>Retard</hi> our Progreſs, or <hi>Benum</hi> and <hi>Chill</hi> the Fervour of our Devotion. To this end our Common Directreſs, <hi>the Church,</hi> Inſtructs her Ghoſtly Children, the Faith<g ref="char:EOLhyphen"/>ful, by <hi>Catechiſms,</hi> which <hi>Explain</hi> to them their Faith; She <hi>Obliges</hi> them to <hi>Pray</hi> at ſome <hi>Set</hi> Times, and <hi>Exhorts</hi> them to do it <hi>often;</hi> She propoſes to them the <hi>Good Examples</hi> of Holy Men to excite their induſtry; She Administers to them <hi>Sacraments,</hi> the most pregnantly-expreſſive <hi>Signs</hi> to repreſent to them <hi>Spiritual</hi> things: She enures them to <hi>Practiſe</hi> their De<g ref="char:EOLhyphen"/>vout Tenets, by enjoyning them to keep many Signal Seaſons, (as Sundays and Feſtivals) <hi>Holy:</hi> Laſtly, She Lays a kind of Sweet Force upon them, to keep up their Spirits from <hi>Drooping</hi> and <hi>Lazy Dulneſs,</hi> by her well-or<g ref="char:EOLhyphen"/>der'd <hi>Diſcipline;</hi> which puts them upon <hi>Exerciſing</hi> what Her <hi>Inſtructions</hi> had <hi>Taught</hi> them: And all this to no other end, but by <hi>Acquanting</hi> them more familiarly with their Faith, to make it <hi>Vigorous, Lively</hi> and <hi>Active.</hi>
+            </p>
+            <p>But now, beſides thoſe <hi>Ordinary</hi> ways of advancing Faith, there are other <hi>Clearer Lights;</hi> to attain which, is the work of but a <hi>few</hi> more Elevated Christians; tho', if Induſtry and Inſtruction be not wanting, they may, to a fair degree, be compaſſed, by conſiderable Multitudes; all of them tending to per<g ref="char:EOLhyphen"/>fect Souls in the <hi>Knowledge,</hi> and conſequently in the <hi>Love</hi> of God, and in a great meaſure ſupplying the Diſadvantage of Faith's <hi>Obſcurity.</hi> Such as are, Firſt, The Science of <hi>Controverſy;</hi> which if rightly managed, ſhews the Abſolute Certainty of the <hi>Grounds</hi> of Faith, by Evidencing the Truth of <hi>Chriſts Doctrine,</hi> and that it has been ſincerely and incorruptedly Tranſ<g ref="char:EOLhyphen"/>mitted down to us who live <hi>now. Secondly, Cheology,</hi> which renders that Doctrine <hi>more Intelligible</hi> by ſhewing its <hi>Agreeableneſs</hi> to <hi>Natural</hi> Princi<g ref="char:EOLhyphen"/>ples, and its <hi>Connexion</hi> with thoſe Truths which are more Clear and Obvi<g ref="char:EOLhyphen"/>ous to our common Conceptions. <hi>Thirdly,</hi> By <hi>Higher, Purer,</hi> and more <hi>Em<g ref="char:EOLhyphen"/>pyreal Lights</hi> gain'd by <hi>Abſtraction</hi> from the world (either Totally or at Seaſons) and continual Employment of our Thoughts in Meditation and Con<g ref="char:EOLhyphen"/>templation; which burniſh the Rude and <g ref="char:V">Ʋ</g>npoliſhed <hi>Ideas</hi> we have of <hi>Hea<g ref="char:EOLhyphen"/>venly Goods</hi> with a more <hi>Bright</hi> and <hi>Dazling</hi> Lustre; being (as far as our State here will allow) a certain kind of <hi>Experience</hi> of their Tranſcen<g ref="char:EOLhyphen"/>dent Excellency. And <hi>Laſtly, Natural Science,</hi> or the true Knowledge of the <hi>Book of Creatures;</hi> which (and eſpecially that part of Metaphyſicks which treats of <hi>Abſtracted Spirits)</hi> if Solid, and applied as it ought, is apt to raiſe the Soul to very ſublime Contemplations. And <hi>Theſe Know<g ref="char:EOLhyphen"/>ledges</hi> are particularly <hi>They,</hi> which are meant here by <hi>Science</hi> as ſhe is the <hi>Handmaid to Dirtue:</hi> For they do all conduce highly in their ſeveral Stations, to make our Apprehenſions of Heavenly Things more <hi>Clear, Active</hi>
+               <pb facs="tcp:43712:3"/>and <hi>Lively:</hi> They rivet and confirm in us our Adheſion to Heaven-reveal'd Truths, and add to our Spiritual Progreſs <hi>Incomparable Advantages.</hi> This is that <hi>Wiſdom,</hi> which St. <hi>Paul</hi> tells us <hi>he ſpoke among the Perfect;</hi> and which is recommended here to all thoſe that aym at <hi>Perfection.</hi>
+            </p>
+            <p>I thought fit to deliver my Conceptions, tho' they were of the Highest Points of Chriſtian Morality, in the way of <hi>Poetry,</hi> becauſe this is more E<g ref="char:EOLhyphen"/>levated, and more becoming Great Subjects than <hi>Proſe.</hi> The thoughts of a Poetical Writer uſe to be more <hi>Comprehenſive;</hi> which renders his <hi>Senſe</hi> more <hi>Full,</hi> and his <hi>Expreſſions</hi> more <hi>Smart.</hi> And I took the way of <hi>Court<g ref="char:EOLhyphen"/>ſhip,</hi> to ſhew that there is no manner of dreſſing up a Subject, but may be <hi>Uſeful</hi> to Devotion; eſpecially when the Matter guards the Author from all ſuſpition of <hi>Levity.</hi> Beſides, there is ſomething of Charmingneſs in ſuch kind of Addreſſes. <hi>Love</hi> is ſo Tender and Soul-melting a Paſſion, that it is Grate<g ref="char:EOLhyphen"/>ful to all whoſe Natures are not Sower'd by a Rigid Humour: Nothing can be either more Attractive or more Perſwaſive, than the Soft and Delicate Language in which it uſes to be delivered. But I can need no more Authen<g ref="char:EOLhyphen"/>tick Voucher than the Holy Ghost, nor a more Warrantable Precedent, than the Sacred Scripture it ſelf endited by his Inſpiration. Never was any thing more affectionately writ than that <hi>Song of Songs,</hi> the <hi>Canticles</hi> of <hi>Solomon;</hi> in which the Deareſt Love between the <hi>Church</hi> and Her <hi>Heavenly Spouſe</hi> is penn'd throughout in ſuch <hi>Amorous</hi> Language, and ſuch <hi>Raviſhingly-kind</hi> and <hi>Courtly</hi> Expreſſions, that perhaps the most High-Soaring Fancy that e<g ref="char:EOLhyphen"/>ver Writ ſince in that ſtrain, has never been able to reach or equal it. He is but Meanly Verſt in Poetry, who ſees not that that Devout Piece is a per<g ref="char:EOLhyphen"/>fect <hi>Love-Poem;</hi> and which is moſt diſlik't by ſome Nice-judgments, a <hi>Dra<g ref="char:EOLhyphen"/>matick</hi> Poem too; or as we familiarly call it a <hi>Play;</hi> where the ſeveral Per<g ref="char:EOLhyphen"/>ſons <hi>Come in, Speak,</hi> and <hi>Anſwer</hi> in their turns. Whence we may farther diſcern that 'tis not the Artificial <hi>Form</hi> of Writing <hi>this</hi> way or <hi>that,</hi> which is Diſpleaſing to God, but the applying that Form to <hi>Fooliſh</hi> Matter, or Un<g ref="char:EOLhyphen"/>worthy and Unchaſt <hi>Subjects.</hi> Beſides, in taking this Method, I had a due Regard to the <hi>Devout Sex,</hi> who take more delight in the <hi>Tender</hi> Expreſſions of Poetry, than in ſevere Precepts delivered in <hi>Rougher</hi> Proſe; their <hi>Ge<g ref="char:EOLhyphen"/>nius</hi> leading them to be more affected with what's <hi>Quaint,</hi> and to profit more by ſuch Inſtructions as are uſher'd in with Pleaſure, and ſome kind of Gayity.</p>
+            <p>That I Dedicated theſe Pieces to thoſe Illustrious Ladies, was a Natu<g ref="char:EOLhyphen"/>ral Effect of the Just Honour and Highest Reſpects I do, for many Re<g ref="char:EOLhyphen"/>gards, bear <hi>Themſelves</hi> and all their Noble <hi>Family;</hi> which dilates it ſelf into ſo many Branches adorn'd with moſt ſignal Marks of Honour, as per<g ref="char:EOLhyphen"/>haps <hi>Few</hi> in our Nation can <hi>equal</hi> it: And 'tis the greatest <hi>Encomium</hi> I can give to thoſe Two Excellent Perſonages, that by publiſhing to the World they have a ſpecial Title to ſuch Dedications, I declare at the ſame time that their Virtuous Education and Perſonal Endowments are ſuch as render them capable of underſtanding the moſt ſolid Grounds of Chriſtian Morality, and of benefiting Themſelves by ſuch Productions as exceed the reach of thoſe Ladies who are not far above the common Levell of their Sex and Quality.</p>
+            <p>The <hi>Annotations</hi> may in one paſſage or two ſeem too <hi>ſpeculative.</hi> But, I deſire it may be conſider'd that thoſe ſpeculations that are <hi>Aiery</hi> and <hi>Phan<g ref="char:EOLhyphen"/>taſtick</hi> are indeed juſtly <hi>Blameable;</hi> but that thoſe which are nothing but a <hi>deep Search</hi> and <hi>Inſpection</hi> into the Nature of the <hi>Thing,</hi> which is under conſideration, (as I am well aſſur'd theſe are) cannot justly be taxed with any thing but their being too <hi>well-grounded,</hi> and too <hi>ſolid;</hi> which are ſuch Good Faults that they can need no Excuſe: Nor can any thing be deem'd too <hi>Obſcure,</hi> which the <hi>dayly Courſe</hi> of our Chriſtian Life, with a due Re<g ref="char:EOLhyphen"/>flexion on our Interiour, will, after a while, beat out <hi>Plain</hi> to us; and requite our Induſtry and Patience with the <hi>Evidence</hi> and <hi>Satisfaction</hi> it will bring a<g ref="char:EOLhyphen"/>long with it when 'tis fully comprehended.</p>
+            <closer>
+               <signed>J. S.</signed>
+            </closer>
+         </div>
+      </front>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="dedicatory_poem">
+                  <pb n="1" facs="tcp:43712:3"/>
+                  <head>DEDICATION: To Her GRACE The DUTCHESS of <hi>RICHMOND.</hi>
+                  </head>
+                  <lg>
+                     <l>LO, Madam, here's a <hi>Noble</hi> Gueſt,</l>
+                     <l>Beſpeaks a Room in your good <hi>Breaſt.</hi>
+                     </l>
+                     <l>She ſeems a <hi>Stranger</hi> and Unknown,</l>
+                     <l>Attir'd i'th' Mode of <hi>Helicon;</hi>
+                     </l>
+                     <l>At a late Viſit given her there</l>
+                     <l>By a <hi>Maiden</hi> Muſe with <hi>Child</hi> of Her.</l>
+                     <l>But, if Y' unveil the <hi>Tiffany Dreſs</hi>
+                     </l>
+                     <l>Her Friend there lent her, ſhe'll confeſs</l>
+                     <l>Her ſelf Your <hi>Inmate;</hi> vow'd to <hi>dwell</hi>
+                     </l>
+                     <l>Conſtantly in Your <hi>Heart's</hi> dear <hi>Cell:</hi>
+                     </l>
+                     <l>'Twas Orderd by Heaven's <hi>Kind Decree,</hi>
+                     </l>
+                     <l>Your Soul ſhould be her <hi>Landlady.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Your choiceſt Entertainment bring</l>
+                     <l>For this Great <hi>Daughter</hi> to <hi>Heavens King.</hi>
+                     </l>
+                     <l>Of Your Heart <hi>Adorn</hi> each room</l>
+                     <l>With pureſt Thoughts, with Prayer <hi>perfume,</hi>
+                     </l>
+                     <l>Who thus receives her nothing loſes,</l>
+                     <l>She all her <hi>Father's</hi> Gifts diſpoſes:</l>
+                     <l>The Title ſhe will give You, is,</l>
+                     <l>
+                        <hi>Heireſs to Eternal Bliſs;</hi>
+                     </l>
+                     <l>And your Aim at <hi>True Glory</hi> to advance,</l>
+                     <l>Whole Heaven will be your <hi>Rich Inheritance.</hi>
+                     </l>
+                  </lg>
+               </div>
+            </front>
+            <body>
+               <div type="poem">
+                  <head>To VIRTUE, <hi>His Soul's Miſtreſs.</hi>
+                  </head>
+                  <lg>
+                     <head>Stanza I.</head>
+                     <l>
+                        <ref target="#A60174-1NOTEA">
+                           <hi>(a)</hi>
+                        </ref> FAir Maid of <hi>Honour,</hi> to Heaven's <hi>Court;</hi>
+                     </l>
+                     <l>What <hi>Pencil,</hi> or what <hi>Colours</hi> be</l>
+                     <l>Fit to <hi>Reſemble,</hi> or even <hi>Emblem</hi> Thee,</l>
+                     <l>To Fancy whom lifts <hi>Art</hi> into <hi>Tranſport!</hi>
+                     </l>
+                     <pb n="2" facs="tcp:43712:4"/>
+                     <l>I am all Exta<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                     </l>
+                     <l>When I mean <hi>Thee,</hi>
+                     </l>
+                     <l>Dear Raviſher of Hearts and Brains</l>
+                     <l>Each High-Expreſſive Attribute</l>
+                     <l>Liſps, or is mute:</l>
+                     <l>
+                        <hi>Blazons</hi> of Honour prove but <hi>Blots</hi> and <hi>Stains.</hi>
+                     </l>
+                     <l>
+                        <hi>Courtſhip,</hi> which racks Truth, is <hi>Detraction</hi> here;</l>
+                     <l>
+                        <hi>Complements</hi> in <hi>Realities</hi> diſappear.</l>
+                  </lg>
+                  <lg>
+                     <head>II.</head>
+                     <l>Hence you Untutour'd Wits, whoſe Vein</l>
+                     <l>Is onely Gallant when Prophane;</l>
+                     <l>Your Chattering Muſe is <hi>hoarſe</hi> where the High Theme</l>
+                     <l>Leaves no Power to <hi>Blaſpheme.</hi>
+                     </l>
+                     <l>Your <hi>Aiery Art</hi> affords</l>
+                     <l>But Empty <hi>Lying Words,</hi>
+                     </l>
+                     <l>Slandering <hi>Heav'n,</hi> and All-rich <hi>Nature,</hi>
+                     </l>
+                     <l>To Flatter one poor <hi>Clayie</hi> Creature.</l>
+                     <l>Stars, Violets, Gems and Spice,</l>
+                     <l>Roſes and Paradiſe</l>
+                     <l>All are diſſolv'd into <hi>Looſe Rhyme,</hi>
+                     </l>
+                     <l>Which to Hell's <hi>service</hi> movingly does <hi>Chime:</hi>
+                     </l>
+                     <l>Are all <hi>diſtill'd</hi> by fulſome ſoultry <hi>Fires</hi>
+                     </l>
+                     <l>Of Cole-black Luſt-enkindled Deſires</l>
+                     <l>
+                        <hi>T' Extract</hi> (alas) a <hi>Motley</hi> Miſtreſs thence,</l>
+                     <l>
+                        <hi>Vice's</hi> and <hi>Vanity's</hi> Compound Quinteſſence.</l>
+                     <l>Bold Chymiſts that dare try</l>
+                     <l>What God and Nature both deny!</l>
+                     <l>
+                        <hi>Dust-creeping</hi> things be gone;</l>
+                     <l>Your Higheſt <hi>Muſick</hi> is but <hi>Hiſſes,</hi>
+                     </l>
+                     <l>Th' Old Serpents Tone,</l>
+                     <l>When he belov'd Corruption <hi>devours</hi> with Kiſſes.</l>
+                     <l>Let <hi>Chloris, Celia,</hi> and that Idol-Crew,</l>
+                     <l>Your Wanton Dotages, pack all away with you;</l>
+                     <l>And in their ill-fill'd Room</l>
+                     <l>Let <hi>Virtue,</hi> Heavens-Enamouring Darling come.</l>
+                  </lg>
+                  <pb n="3" facs="tcp:43712:4"/>
+                  <lg>
+                     <head>III.</head>
+                     <l>
+                        <hi>Virtue,</hi> dear <hi>Virtue!</hi> Hark how the lovely Sound,</l>
+                     <l>Climbing its Native Sky,</l>
+                     <l>Compendiouſly</l>
+                     <l>
+                        <hi>Ecchoes</hi> the Sphere's whole <hi>Conſort</hi> at each ſweet Rebound!</l>
+                     <l>While my Joy-raviſh't Soul ſweet <hi>Virtue</hi> ſings,</l>
+                     <l>All Heaven's concern'd, and Counter-rings,</l>
+                     <l>Tun'd to the <hi>Self-ſame</hi> Key</l>
+                     <l>By Myſterious <hi>Sympathy,</hi>
+                     </l>
+                     <l>Such ſweet and ſecret Force has <hi>Correſpondency.</hi>
+                     </l>
+                     <l>Dear <hi>Virtue,</hi> my Soul's Queen!</l>
+                     <l>
+                        <ref target="#A60174-1NOTEB">
+                           <hi>(b)</hi>
+                        </ref> Come, and come <hi>Glorious,</hi> as thou would'ſt be ſeen</l>
+                     <l>By they Dread Lord, when at his <hi>Seſſion's</hi> Day</l>
+                     <l>He ſhall the Palſy'd World in <hi>Flames</hi> ſurvey;</l>
+                     <l>And with the pureſt <hi>Beam</hi> of his <hi>Bright Eye</hi>
+                     </l>
+                     <l>Thy <hi>Mettal</hi> try,</l>
+                     <l>And with one Powerful Glance <hi>Purge</hi> all thy <hi>Groſs Allay.</hi>
+                     </l>
+                     <l>In that <hi>dazling</hi> Form appear;</l>
+                     <l>Nor fear,</l>
+                     <l>Leſt our <hi>Fleſh-veiled</hi> Sight</l>
+                     <l>Cannot ſuſtain thy pure <hi>Meridian</hi> Light;</l>
+                     <l>True, we are <hi>dim-ey'd</hi> Bats and dwell,</l>
+                     <l>Bright <hi>Virtue,</hi> in a dark and gloomy Cell;</l>
+                     <l>Yet <hi>Starry</hi> Lights and <hi>Thine</hi>
+                     </l>
+                     <l>More needfully do ſhine</l>
+                     <l>
+                        <hi>Cimmerian</hi> Midnight to expel.</l>
+                     <l>Deal forth a gentle <hi>Ray,</hi>
+                     </l>
+                     <l>And create a New-born <hi>Day,</hi>
+                     </l>
+                     <l>Which in Red Letters We</l>
+                     <l>Will Write, and Conſecrate to thy Dear Memory.</l>
+                     <l>We with Devouteſt <hi>Incenſe</hi> will it feaſt,</l>
+                     <l>And every <hi>Sweet</hi> of the Arabian Neſt.</l>
+                  </lg>
+                  <pb n="4" facs="tcp:43712:5"/>
+                  <lg>
+                     <head>IV.</head>
+                     <l>Lo where ſhe comes, ſhe comes amain,</l>
+                     <l>
+                        <ref target="#A60174-1NOTEC">
+                           <hi>(c)</hi>
+                        </ref> And Nature's whole <hi>Great Houſhold</hi> in her Train,</l>
+                     <l>All <hi>preſt</hi> by <hi>Reaſon's Law</hi> to follow <hi>Her!</hi>
+                     </l>
+                     <l>Th' Obedient <hi>Well-train'd</hi> Band</l>
+                     <l>Stands ſtill, moves forward, turns at Her Command.</l>
+                     <l>To Heaven their <hi>Proceſſion</hi> is, and ſhe</l>
+                     <l>The <hi>Van</hi> does lead;</l>
+                     <l>Nor ought they tread,</l>
+                     <l>In their Calm March, <hi>One Step</hi> until her Beck they ſee;</l>
+                     <l>Or, if ſome grow <hi>diſorder'd,</hi> and do,</l>
+                     <l>All Natures <hi>Well-Rank't</hi> Army grows Diſorder'd too.</l>
+                  </lg>
+                  <lg>
+                     <l>'Tis She <hi>allies</hi>
+                     </l>
+                     <l>Our Sublunary World to the Bright Skies:</l>
+                     <l>She is the <hi>Wedding-Ring</hi> 'twixt <hi>God</hi> and <hi>Nature;</hi>
+                     </l>
+                     <l>If any poor Exalted Creature</l>
+                     <l>Heav'n's Bleſt <hi>Affinity</hi> partakes,</l>
+                     <l>
+                        <hi>Virtue</hi> the <hi>Marriage</hi> and <hi>Relation</hi> makes.</l>
+                     <l>She ſtands between,</l>
+                     <l>A Reconciling, not Dividing Screen.</l>
+                     <l>'Tis <hi>Love</hi> alone</l>
+                     <l>That can <hi>Two Spirits</hi> joyn in <hi>One.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <head>V.</head>
+                     <l>
+                        <hi>Being,</hi> which in its Notion's <hi>ſpacious</hi> room</l>
+                     <l>All poſſible Perfections does <hi>enwomb,</hi>
+                     </l>
+                     <l>Could not in her whole Line a <hi>Scale</hi> contrive</l>
+                     <l>By <hi>Steps</hi> at <hi>Heav'n</hi> t' arrive.</l>
+                     <l>Add new Gradations, until</l>
+                     <l>You fill</l>
+                     <l>All the far-ſtretched Length in Numbers Row,</l>
+                     <l>In multiply'd Exceſſes let Proportions grow and grow,</l>
+                     <l>Still, ſtill, that Entity ſinks infinitely <hi>Infinity</hi> below.</l>
+                     <pb n="5" facs="tcp:43712:5"/>
+                     <l>Let Great <hi>Creation</hi> exert its utmoſt Skill,</l>
+                     <l>It's Product's but deep <hi>Nothing's Valley</hi> to Heav'n's <hi>Topleſs Hill,</hi>
+                     </l>
+                     <l>Whither t' arrive <hi>tranſcends,</hi> oh far tranſcends <hi>Impoſſible;</hi>
+                     </l>
+                     <l>Unleſs <hi>Great Virtue,</hi> Heav'n's next Neighbour, ſtand</l>
+                     <l>On th' top of Cauſes <hi>Climax,</hi> and there lend a hand</l>
+                     <l>To help the <hi>Lame,</hi> tho' <hi>Winged,</hi> Spirits on high</l>
+                     <l>T' attain and reach th' elſe-Inacceſs'ble Deity.</l>
+                  </lg>
+                  <lg>
+                     <head>VI.</head>
+                     <l>
+                        <ref target="#A60174-1NOTED">
+                           <hi>(d)</hi>
+                        </ref> Thy <hi>Eſſence</hi> is of <hi>Harmony</hi> compoſed:</l>
+                     <l>
+                        <ref target="#A60174-1NOTEE">
+                           <hi>(e)</hi>
+                        </ref> That Old Philoſopher had ſaid true</l>
+                     <l>Had he meant <hi>You,</hi>
+                     </l>
+                     <l>Soul to the <hi>World</hi> and our Souls too.</l>
+                     <l>A Map of <hi>Symmetry</hi>
+                     </l>
+                     <l>Beſt Epitomizes Thee,</l>
+                     <l>In <hi>Order's</hi> perfect'ſt Mould diſpoſed;</l>
+                     <l>
+                        <hi>(f) Order,</hi> as when New-<hi>Coyn'd</hi> in Heav'n's High <hi>Mint,</hi>
+                     </l>
+                     <l>Retaining ſtill the All-Wiſe, All-Good Finger's <hi>Print.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>A <hi>Calm Sereneneſs</hi> is thy proper <hi>Grace,</hi>
+                     </l>
+                     <l>Smooth as a ſmiling Angel's Face.</l>
+                     <l>
+                        <ref target="#A60174-1NOTEG">
+                           <hi>(g)</hi>
+                        </ref> Oh, thou'rt all <hi>Smile,</hi> Smile ſhadows beſt thy <hi>Feature,</hi>
+                     </l>
+                     <l>One conſtant <hi>ſerious Smile</hi> of well-pleas'd Nature.</l>
+                     <l>A never-clouded <hi>Genuine</hi> Smile,</l>
+                     <l>Not coyn'd fond Lovers to <hi>beguile,</hi>
+                     </l>
+                     <l>To <hi>tempt</hi> Looſe Vanity,</l>
+                     <l>Or <hi>guild</hi> ſome Complemental Lye;</l>
+                     <l>Thou'ſt better Arts</l>
+                     <l>T'eamour Hearts,</l>
+                     <l>Thy Strict, Chaſt, Cold, yet Mild and Sweet <hi>Indifferency.</hi>
+                     </l>
+                     <l>All Love is <hi>Feavour,</hi> and <hi>Phyſick</hi> needs,</l>
+                     <l>Which thy <hi>Juſt Temperament</hi> exceeds.</l>
+                  </lg>
+                  <lg>
+                     <head>VII.</head>
+                     <l>When thou <hi>breath'st,</hi> thy Breath is <hi>Prayer,</hi>
+                     </l>
+                     <l>Exhaling Thee in <hi>Perfum'd Ayre:</hi>
+                     </l>
+                     <pb n="6" facs="tcp:43712:6"/>
+                     <l>In ſuch Ayr Angels <hi>wave</hi> their Wings,</l>
+                     <l>With ſuch Ayr the Seraph <hi>ſings,</hi>
+                     </l>
+                     <l>Such Ayr the Heavenly Dove</l>
+                     <l>
+                        <hi>Wafts</hi> down; or, if above</l>
+                     <l>
+                        <ref target="#A60174-1NOTEH">
+                           <hi>(h)</hi>
+                        </ref> Seemingly a while it ſtays,</l>
+                     <l>
+                        <ref target="#A60174-1NOTEI">
+                           <hi>(i)</hi>
+                        </ref> This Ayr our <hi>interchanged ſighs</hi> conveys.</l>
+                     <l>Thro' ſuch Ayr <hi>Kind Heav'n</hi> diſpences</l>
+                     <l>And tranſpires its <hi>Influences;</hi>
+                     </l>
+                     <l>Which, in <hi>Soul-quickening Rayes</hi> ſent down,</l>
+                     <l>Our <hi>dry</hi> and <hi>barren</hi> Earth with <hi>ſhow'rs</hi> of Bleſſings crown.</l>
+                     <l>Thy Fragrant <hi>Breaſt</hi>
+                     </l>
+                     <l>Is a Phoenix <hi>Cherub's Neſt,</hi>
+                     </l>
+                     <l>Where ſhe does <hi>brooding</hi> ſit</l>
+                     <l>
+                        <ref target="#A60174-1NOTEK">
+                           <hi>(k)</hi>
+                        </ref> On thouſand <hi>Birds of Paradiſe</hi> i'th' ſhell as yet;</l>
+                     <l>Which, with a Wiſe Impatiency,</l>
+                     <l>
+                        <hi>Peck</hi> and ſpurn at their <hi>Priſon</hi> to get free;</l>
+                     <l>And, ripe to be releaſed, they</l>
+                     <l>Chirp at the <hi>Dawning Glimpſe</hi> of their <hi>Immortal Day.</hi>
+                     </l>
+                     <l>Poor <hi>Unfledg'd</hi> things! whoſe <hi>Pinions</hi> aym Heav'n's Eye,</l>
+                     <l>And in their <hi>Downy Nonage</hi> meditate the Sky.</l>
+                  </lg>
+                  <lg>
+                     <head>VIII.</head>
+                     <l>Sum up thy Thoughts, my Soul, ſum up thy Treaſure;</l>
+                     <l>This <hi>All's</hi> too <hi>Poor</hi> of Worth, and Time's too <hi>Short</hi> a Leaſure,</l>
+                     <l>Thy deareſt Saint</l>
+                     <l>In <hi>Form</hi> and <hi>Colours,</hi> worthy Her, to <hi>Paint.</hi>
+                     </l>
+                     <l>Alas! what can be found</l>
+                     <l>In Nature's Round,</l>
+                     <l>
+                        <ref target="#A60174-1NOTEL">
+                           <hi>(l)</hi>
+                        </ref> Whether we look up to thoſe <hi>Nimble</hi> things</l>
+                     <l>Fancy-clad with <hi>Wings;</hi>
+                     </l>
+                     <l>Or down to this <hi>dull-pac'd</hi> Corporeal Sphere,</l>
+                     <l>
+                        <ref target="#A60174-1NOTEM">
+                           <hi>(m)</hi>
+                        </ref> Nature's Well-furniſh'd Shop of <hi>Inſtrumental</hi> Ware,</l>
+                     <l>From neither can w' expect other Supplies,</l>
+                     <l>But <hi>Raggs</hi> of being, <hi>Torn</hi> in thin Formalities.</l>
+                     <pb n="7" facs="tcp:43712:6"/>
+                     <l>Too narrow far</l>
+                     <l>To define <hi>Her,</hi>
+                     </l>
+                     <l>In whom <hi>Each</hi> ſingle <hi>Good</hi> and <hi>Sweet</hi>
+                     </l>
+                     <l>Do in a Sacred <hi>Eminency</hi> meet.</l>
+                  </lg>
+                  <lg>
+                     <head>IX.</head>
+                     <l>Be then <hi>thy Self,</hi> Dear Saint, be <hi>Thine Own</hi> Beauty;</l>
+                     <l>Our <hi>Slender</hi> Fancies ſhall not dare</l>
+                     <l>To injure Thee, who art <hi>ſupremely Fair,</hi>
+                     </l>
+                     <l>By a detractingly-Officious Duty.</l>
+                     <l>Be ſtill thy own <hi>Pure Self,</hi> admit no Leaven,</l>
+                     <l>For if thou beeſt <hi>Thy Self,</hi> thou'lt be a <hi>Heaven:</hi>
+                     </l>
+                     <l>Heav'n wrapt up in the <hi>Oar</hi> thou art, <hi>refin'd</hi>
+                     </l>
+                     <l>To <hi>Glory</hi> when we're made all Mind.</l>
+                     <l>Life of oft-<hi>ſelf-reflected Grace-directed</hi> Reaſon,</l>
+                     <l>Still ripe to act when Providence points the Seaſon.</l>
+                     <l>
+                        <hi>Spirit</hi> of Spirits, Seraphick <hi>Quinteſſence,</hi>
+                     </l>
+                     <l>Which none but ſuch <hi>Pure Fires</hi>
+                     </l>
+                     <l>As <hi>Heav'n</hi> it ſelf <hi>inſpires,</hi>
+                     </l>
+                     <l>
+                        <ref target="#A60174-1NOTEN">
+                           <hi>(n)</hi>
+                        </ref> Blown too by God's own <hi>Breath</hi> can extract thence.</l>
+                     <l>
+                        <hi>Balſom</hi> of Souls, whoſe Vigour when it leaves 'em,</l>
+                     <l>Nought from <hi>Eternal Death</hi> and <hi>Sin's Corruption</hi> ſaves 'em.</l>
+                     <l>Suburbs, or <hi>Gate</hi> to Heav'ns <hi>Metropolis,</hi>
+                     </l>
+                     <l>
+                        <hi>Planter</hi> of Paradiſe, and <hi>Seed</hi> of Bliſs:</l>
+                     <l>The Flow'ry <hi>High Way</hi> to my <hi>Endleſs End,</hi>
+                     </l>
+                     <l>My <hi>Lovelieſt</hi> and my <hi>Everlaſting</hi> Friend,</l>
+                     <l>
+                        <hi>Oh may no Loves Maſter this Heart of Mine</hi>
+                     </l>
+                     <l>
+                        <hi>But that, Dear Miſtreſs, of Sweet</hi> Thee <hi>and</hi> Thine.</l>
+                  </lg>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+            <back>
+               <div type="endnotes">
+                  <pb n="8" facs="tcp:43712:7"/>
+                  <head>ANNOTATIONS.</head>
+                  <div xml:id="A60174-1NOTEA" n="a" type="note">
+                     <p>
+                        <label>(a)</label> BY <hi>Virtue</hi> is meant that Queen of all Virtues, <hi>Charity,</hi> or an Intire <hi>Love of God;</hi> no Virtue being truly and indeed ſuch, but That which directs all our Actions to our <hi>True</hi> Last End, and <hi>only Sovereign</hi> Good, the Enjoyment of Him: This, and none but This, being able to Satiate Man's Natural Inclination and Propenſion to Happineſs. No won<g ref="char:EOLhyphen"/>der then the moſt elaborate Expreſſions fall ſhort of reaching the Character Due to ſuch a Tranſcendent Excellency: This being the Highest Perfecti<g ref="char:EOLhyphen"/>on of which a Creature can be capable in this world: Since none is, or can be <hi>above</hi> it, but that which is beyond <hi>all</hi> our Conceptions, the <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>ſpeakable State of <hi>Glory,</hi> or the Actual Fruition of God as in Himſelf.</p>
+                  </div>
+                  <div xml:id="A60174-1NOTEB" n="b" type="note">
+                     <p>
+                        <label>(b)</label> After the Author had diſgrac't the Idle Courtſhips and Ridiculous Flatteries, us'd by the common ſort of Poets to their Worldly Miſtreſſes, he addreſſes himſelf to Invoke his Spiritual Miſtreſs, <hi>Virtue;</hi> and ſo makes the ſame, which was his Subject or <hi>Theme,</hi> to be his <hi>Muſt</hi> alſo. And, to ennoble his Conceptions as much as may be, he raiſes his Thoughts to contemplate Her in that moſt Perfect State in which ſhe will be found in every Holy Soul at the <hi>Laſt Day;</hi> when all Venial Imperfections, expreſt by St. <hi>Paul</hi> by the Metaphors of <hi>Hay, Stubble,</hi> &amp;c. which alloy'd the purity of Heavenly Love in moſt of them, ſhall be <hi>purged</hi> away, by the Raviſhing Sight of their Dear Saviour (whom they had loved here <hi>chiefly,</hi> tho' not ſo <hi>perfectly</hi> as they ought) now appearing in his Glory; and coming to deliver them from their tormenting Pains, cauſed by their <hi>ſuſpenſive Hope</hi> of their long-delay'd and earnestly-deſir'd <hi>Bliſs;</hi> and from thoſe pains of <hi>Senſe</hi> alſo which they endur'd for their <hi>By-Affection,</hi> and <hi>Undue Adhe<g ref="char:EOLhyphen"/>ſion</hi> to Creatures; the love to which they did not ſo <hi>entirely</hi> order to the Love of Heaven.</p>
+                     <p>Let then the Readers but fancy to themſelves that Ardency of <hi>Divine Love,</hi> which at the World's happy Period, when the Courſe of Nature, now for ever uſeleſs, ſhall be <hi>at a Stand,</hi> and <hi>Time ſhall be no more,</hi> will <hi>tranſ<g ref="char:EOLhyphen"/>port</hi> thoſe Holy Souls, and instate them in the Eternal Inheritance of thoſe Bliſsful Manſions: Let them next reflect on what Faith aſſures them, that either they muſt ſtrive to ſtore up in their Souls, while they are <hi>here,</hi> that Diſpoſition, which, and which only, can immediately fit them for Heaven; or, they muſt be eternally Miſerable if thy <hi>wholly</hi> neglect it, or elſe ſuf<g ref="char:EOLhyphen"/>fer unſpeakable Torments in the Intermediate State, if they but <hi>ſlight<g ref="char:EOLhyphen"/>ly</hi> cultivate their Minds with <hi>Virtue:</hi> Let, I ſay, Looſe Livers and Tepid Souls, but reflect steadily on theſe two Points, and it must needs excite in them a Sollicitous care to improve their Wills with a fervent <hi>Love of Heaven;</hi> which may be with <hi>leſs</hi> labour attained, and at a far <hi>eaſier</hi> rate purchaſt <hi>here</hi> that <hi>hereafter.</hi>
+                     </p>
+                  </div>
+                  <div xml:id="A60174-1NOTEC" n="c" type="note">
+                     <p>
+                        <label>(c)</label> The Whole Material World was created for the Salvation of good Souls, and conſequently, to breed and nouriſh them up in <hi>Virtue;</hi> without which Salvation is <g ref="char:V">Ʋ</g>nattainable and Impoſſible: And, 'tis the peculiar effect of <hi>Charity</hi> or <hi>Virtue,</hi> to <hi>order</hi> all thoſe Creatures we make uſe of as <hi>Means</hi> to compaſs that <hi>Beſt End.</hi> Whence by the Rule of Contraries, we may ga<g ref="char:EOLhyphen"/>ther the Hideous Enormity of <hi>Sin;</hi> which, conſiſting in the <hi>Chuſing</hi> ſome <hi>Creature</hi> for our <hi>Ultimate End,</hi> and in the <hi>Directing</hi> all our Actions to the Attaining and Enjoying that <hi>Periſhable</hi> and <hi>Falſe Good,</hi> does of it's own nature <hi>diſorder</hi> all the World, and <hi>ravel</hi> it into a wrong Frame and Me<g ref="char:EOLhyphen"/>thod; and would actually <hi>Pervert</hi> the Order of the <hi>Univerſe,</hi> did not the Infinite Goodneſs of God, to <hi>ſupport</hi> his own <hi>Work,</hi> and <hi>ſupply</hi> the <hi>Fail<g ref="char:EOLhyphen"/>ings</hi> of his <hi>Weak</hi> Creatures, mercifully bring a <hi>Greater</hi> Good to the World
+<pb n="9" facs="tcp:43712:7"/>out of their Miſcarriages, make a <hi>More</hi> perfect Harmony Spring out of that Confuſion; and ſo contrive things, that the Vices of the <hi>Wicked</hi> ſhould ad<g ref="char:EOLhyphen"/>vance <hi>Holy</hi> and well-meaning Souls to a <hi>higher</hi> pitch of <hi>Virtue.</hi>
+                     </p>
+                  </div>
+                  <div xml:id="A60174-1NOTED" n="d" type="note">
+                     <p>
+                        <label>(d)</label> As Vulgar Poets uſe to extoll their Worldly Miſtreſſes for their rare <hi>Nature,</hi> the Compoſition and <hi>Symmetry</hi> of their <hi>Bodies,</hi> the Gracefulneſs and Beauty of their Face, the <hi>Agreeableneſs</hi> of their <hi>Humour,</hi> the <hi>Sweet<g ref="char:EOLhyphen"/>neſs</hi> of their <hi>Breath,</hi> and <hi>Deliciouſneſs</hi> of their <hi>Breaſts;</hi> ſo all theſe Con<g ref="char:EOLhyphen"/>ſiderations are turn'd here to a <hi>Spiritual Senſe,</hi> in Commendation of <hi>Virtue</hi> under each of theſe Reſpects.</p>
+                  </div>
+                  <div xml:id="A60174-1NOTEE" n="e" type="note">
+                     <p>
+                        <label>(e)</label> 
+                        <hi>Anaxagoras</hi> the Philoſopher held the Soul was made of <hi>Harmony:</hi> Too Muſical a Conceit, unleſs meant as here, that ſhe is a Principle of <hi>Or<g ref="char:EOLhyphen"/>der.</hi> And certainly of all <hi>Orders</hi> That is the most <hi>Harmonious,</hi> beſt pro<g ref="char:EOLhyphen"/>portion'd and Exact, which <hi>directs</hi> every thing to Man's <hi>True</hi> Laſt End for which his nature was Created: A Property only belonging to <hi>Charity</hi> or <hi>Virtue.</hi>
+                     </p>
+                  </div>
+                  <div xml:id="A60174-1NOTEF" n="f" type="note">
+                     <p>
+                        <label>(f)</label> For the <hi>Order</hi> of Sublunary things paſſing thro' the hands of <hi>Crea<g ref="char:EOLhyphen"/>tures,</hi> who are Themſelves diſabled by <hi>Weakneſs,</hi> or diſorderd with <hi>Paſſion,</hi> (and therefore in both regards <hi>Imperfect Agents</hi>) does oftentimes ſeem Straggling and <hi>Perplext:</hi> And only the Supream Manager of the World, can bring all thoſe <hi>Crooked</hi> Windings to meet in a <hi>Direct</hi> Line, and knit up all thoſe <hi>Ill-order'd</hi> and <hi>Monſtrous</hi> Actions in a <hi>Beauteous Cloze.</hi>
+                     </p>
+                  </div>
+                  <div xml:id="A60174-1NOTEG" n="g" type="note">
+                     <p>
+                        <label>(g)</label> The Love of Heaven gives a good Soul a Cheerful Contentedneſs, a hearty Interiour Satisfaction and <hi>Spiritual Joy,</hi> (which is therefore one of the <hi>Fruits</hi> of the Holy Ghost) ſets her above all <hi>Peeviſh Regrets</hi> which diſcompoſe the minds of thoſe who <hi>over-ſollicitouſly</hi> affect Sublunary Goods or Temporary things; For 'tis This that ballances all Her Diſcontents by gi<g ref="char:EOLhyphen"/>ving Her an Inward Aſſurance that no <hi>Croſſes</hi> or Contradictions are in the least able to <hi>hurt</hi> Her; but on the contrary, born with a Glad Reſignati<g ref="char:EOLhyphen"/>on, they do (as the Apoſtle ſays) <hi>Co-operate</hi> to Her Salvation. Where<g ref="char:EOLhyphen"/>fore, this Vivacity of Spirit, beſt reſembles the Genius, Comportment and (as we may ſay) the <hi>Good Humour</hi> of <hi>Virtue.</hi>
+                     </p>
+                  </div>
+                  <div xml:id="A60174-1NOTEH" n="h" type="note">
+                     <p>
+                        <label>(h)</label> Heaven ſeems oft times to delay it's Spiritual Favours to increaſe our Reward by ſtriving <hi>longer</hi> and <hi>more</hi> earneſtly to obtain them by our <hi>Ar<g ref="char:EOLhyphen"/>dent</hi> Wiſhes, and <hi>Fervent</hi> Prayers; by which (as our B. Saviour expreſſes it) <hi>the Kingdom of Heaven ſuffers Violence.</hi>
+                     </p>
+                  </div>
+                  <div xml:id="A60174-1NOTEI" n="i" type="note">
+                     <p>
+                        <label>(i)</label> Mutual Expreſſions of Love, between the B. Spirit <hi>deſirous</hi> to diffuſe its Gifts, and <hi>Courting</hi> us to diſpoſe our ſelves to <hi>receive</hi> them; and Devout Souls, ſolliciting with <hi>Affectionate Wiſhes</hi> for Grace in the <hi>Way</hi> and Glo<g ref="char:EOLhyphen"/>rious Fruition in the <hi>End.</hi>
+                     </p>
+                  </div>
+                  <div xml:id="A60174-1NOTEK" n="k" type="note">
+                     <p>
+                        <label>(k)</label> Fervent and Frequent Deſires of Heaven.</p>
+                  </div>
+                  <div xml:id="A60174-1NOTEL" n="l" type="note">
+                     <p>
+                        <label>(l)</label> Angels.</p>
+                  </div>
+                  <div xml:id="A60174-1NOTEM" n="m" type="note">
+                     <p>
+                        <label>(m)</label> All Corporeal Nature, or <hi>Bodies,</hi> are <g ref="char:V">Ʋ</g>nable to move <hi>themſelves,</hi> but muſt be mov'd by <hi>another;</hi> which is the definition of an <hi>Inſtrument.</hi> Whence the whole Material World is but one Great <hi>Inſtrument</hi> of the Intelligences or Angels, which order and move the ſeveral parts of it according as may ſuit beſt with the Deſigns of God's Providence.</p>
+                  </div>
+                  <div xml:id="A60174-1NOTEN" n="n" type="note">
+                     <p>
+                        <label>(n)</label> All our good <hi>Actions,</hi> and even <hi>Deſires</hi> of Virtue, Spring from the Motions of the Holy Ghoſt, <hi>breath'd (as it were)</hi> into our Souls.</p>
+                  </div>
+               </div>
+            </back>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="dedicatory_poem">
+                  <pb facs="tcp:43712:8"/>
+                  <pb n="11" facs="tcp:43712:8"/>
+                  <head>DEDICATION: To the COUNTESS of <hi>Newburgh.</hi>
+                  </head>
+                  <opener>
+                     <salute>Madam,</salute>
+                  </opener>
+                  <lg>
+                     <l>NAture's beſt Flower <hi>unbloſſom'd</hi> long,</l>
+                     <l>And late from Riper Reaſon <hi>ſprung,</hi>
+                     </l>
+                     <l>Begs She may in your <hi>Boſom</hi> ſit,</l>
+                     <l>Both to <hi>Perfume</hi> and <hi>Balſome</hi> it;</l>
+                     <l>And <hi>Virtue's Handmaid</hi> humbly ſues</l>
+                     <l>You would her <hi>ſober</hi> Service uſe.</l>
+                     <l>She prays You not to think her <hi>Light,</hi>
+                     </l>
+                     <l>Fram'd for <hi>Fond Toyes</hi> or <hi>Vain Delight,</hi>
+                     </l>
+                     <l>To vapour in <hi>big Talk,</hi> or ſhow</l>
+                     <l>How much we <hi>more</hi> than others know:</l>
+                     <l>She vows 'tis Heav'n's and <hi>Her</hi> Deſign,</l>
+                     <l>To make firſt <hi>Virtuous,</hi> next <hi>Divine.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Truths</hi> are her <hi>Daughters;</hi> Truths ally'd</l>
+                     <l>To Heaven by the <hi>Fathers</hi> ſide.</l>
+                     <l>
+                        <hi>Truths,</hi> which would their <hi>Birth</hi> diſown</l>
+                     <l>Did they on one another <hi>frown,</hi>
+                     </l>
+                     <l>Not conſtantly <hi>ſelf-link't</hi> remain</l>
+                     <l>In an <hi>Inſeparable</hi> Chain.</l>
+                     <l>The <hi>Natural</hi> are Foundation-ſtones,</l>
+                     <l>To bear the <hi>Supernatural</hi> ones;</l>
+                     <l>Which, tho' they to Heaven's <hi>Top</hi> aſpire,</l>
+                     <l>'Tis the ſame <hi>Ground</hi> rais'd <hi>Stories</hi> higher.</l>
+                     <l>Bleſt Soul, which to the <hi>Throne Divine</hi>
+                     </l>
+                     <l>
+                        <hi>Winds</hi> it ſelf up by it's own <hi>Line!</hi>
+                     </l>
+                     <l>And, if thro' Ignorance's <hi>Night</hi>
+                     </l>
+                     <l>Our <hi>Stumbling</hi> Nature can by th' Light</l>
+                     <l>Of Faith's <hi>Dark-Lanthorn</hi> to Heav'n run,</l>
+                     <l>What would it, <hi>guided</hi> by this <hi>Sun?</hi>
+                     </l>
+                  </lg>
+               </div>
+            </front>
+            <body>
+               <div type="poem">
+                  <head>To <hi>SCIENCE,</hi> Virtue's Handmaid.</head>
+                  <lg>
+                     <head>Stanza I.</head>
+                     <l>
+                        <ref target="#A60174-2NOTEA">
+                           <hi>(a)</hi>
+                        </ref> HAndmaid to Her</l>
+                     <l>To whom my Soul does humbleſt Homage owe,</l>
+                     <l>And far before a whole <hi>Seraglio</hi>
+                     </l>
+                     <l>Of Worldly Miſtreſſes prefer,</l>
+                     <pb n="12" facs="tcp:43712:9" rendition="simple:additions"/>
+                     <l>Daign the poor Tender of this Sprig of Bayes,</l>
+                     <l>My Muſe to <hi>Thee</hi> and thy <hi>Relation</hi> pays.</l>
+                     <l>
+                        <ref target="#A60174-2NOTEB">
+                           <hi>(b)</hi>
+                        </ref> Who wooes the <hi>Miſtreſs</hi> e're he wins the <hi>Maid,</hi>
+                     </l>
+                     <l>By his prepoſterons Boldneſs has his Suit betray'd.</l>
+                     <l>She is my Soul's <hi>Fire,</hi> Thou my <hi>Light;</hi>
+                     </l>
+                     <l>The All-wiſe Hand</l>
+                     <l>This Order <hi>put,</hi> and bid it <hi>ſtand,</hi>
+                     </l>
+                     <l>E're She <hi>Heats Throughly</hi> Thou muſt firſt <hi>Shine Bright.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <head>II.</head>
+                     <l>Some near-acquainted Friends you have</l>
+                     <l>Who <hi>this</hi> Relation wave;</l>
+                     <l>Maintaining that it is <hi>Another,</hi>
+                     </l>
+                     <l>And that thou art fair Virtue's <hi>Mother,</hi>
+                     </l>
+                     <l>Made Pregnant by Great <hi>Father</hi> Providence</l>
+                     <l>His more Particular <hi>Grace-ſeeding</hi> Influence.</l>
+                     <l>Some call thee even Her <hi>Sister-Twin,</hi> and ſay</l>
+                     <l>Both from <hi>ſame</hi> Parents came, both in the <hi>ſame</hi> Womb</l>
+                     <l>As <hi>Light</hi> and <hi>Heat</hi> do ly</l>
+                     <l>Pent in <hi>one</hi> pretty Beam glanc't down from Heavens fair Eye.</l>
+                     <l>
+                        <ref target="#A60174-2NOTEC">
+                           <hi>(c)</hi>
+                        </ref> Other Great Men of Art affirm they know,</l>
+                     <l>That, when thou doſt not Monſtrous grow,</l>
+                     <l>Thou com'ſt to be the <hi>ſelf-ſame</hi> thing;</l>
+                     <l>Onely differing</l>
+                     <l>As <hi>Bloſſom</hi> from the Roſe <hi>full-blown,</hi>
+                     </l>
+                     <l>Or <hi>Tender Damſell</hi> from her ſelf now a <hi>Stay'd Matron</hi> grown.</l>
+                     <l>And that, as th' Early Sun,</l>
+                     <l>New ſprung from the Cool Morning Horizon,</l>
+                     <l>At firſt onely with <hi>Light</hi>
+                     </l>
+                     <l>Viſibly affects our <hi>Sight;</hi>
+                     </l>
+                     <l>But, bowling on his Ball of <hi>Fire,</hi>
+                     </l>
+                     <l>Up to his high Meridian Spire,</l>
+                     <l>Still, as he goes, in <hi>Heat</hi> he thrives,</l>
+                     <l>Till, when he there arrives,</l>
+                     <l>His <hi>ſelf-redoubled</hi> Beams</l>
+                     <l>Become at length advanc't into <hi>Flame-darting</hi> Streams,</l>
+                     <l>So Vigorous Active <hi>Virtue's</hi> no <hi>New</hi> thing at all,</l>
+                     <l>But onely Strengthen'd <hi>Science</hi> now made <hi>Vertical;</hi>
+                     </l>
+                     <pb n="13" facs="tcp:43712:9"/>
+                     <l>Which into Virtue <hi>grows,</hi> not <hi>fades</hi> away,</l>
+                     <l>As <hi>faint-light</hi> Morn ſpreads into <hi>full</hi> Noon-day.</l>
+                  </lg>
+                  <lg>
+                     <head>III.</head>
+                     <l>Be her Relation what it will,</l>
+                     <l>She is Subordinate to <hi>Virtue</hi> ſtill;</l>
+                     <l>And 'mongſt her <hi>many</hi> Titles this is <hi>beſt,</hi>
+                     </l>
+                     <l>She's made t' advance Great <hi>Virtue's</hi> Intereſt.</l>
+                     <l>Pardon, Bright Maid, if <hi>Virtue</hi> we prefer,</l>
+                     <l>And make thy Height humbly ſubmit to <hi>Her;</hi>
+                     </l>
+                     <l>Pardon <hi>Thy Self,</hi> Dear, if I be too Bold,</l>
+                     <l>For 'twas <hi>Thy Self</hi> this Truth unto me told:</l>
+                     <l>Thy <hi>Self-indifferent</hi> Self, which can'ſt deny</l>
+                     <l>This Truth no more than Truth it ſelf can ly.</l>
+                     <l>Yet I ſwear, <hi>Science,</hi> by the Fair-ſweet Hand</l>
+                     <l>Of Sacred <hi>Virtue,</hi> our Loves Faithful Band;</l>
+                     <l>Were <hi>Heaven</hi> as fond Atheiſts <hi>dream,</hi>
+                     </l>
+                     <l>Nought but an <hi>Idle Theam,</hi>
+                     </l>
+                     <l>And <hi>Solid <hi>Virtue</hi>
+                        </hi> but an <hi>Aiery Name,</hi>
+                     </l>
+                     <l>No Bliſs at all deſerving,</l>
+                     <l>But onely vainly ſerving</l>
+                     <l>To blow the <hi>Empty</hi> Trump of <hi>Fame,</hi>
+                     </l>
+                     <l>That is, were She not <hi>She,</hi>
+                     </l>
+                     <l>Thou my <hi>Firſt</hi> Miſtreſs, Thou my <hi>Love</hi> ſhouldſt be.</l>
+                  </lg>
+                  <lg>
+                     <l>I know the Ancients of Philoſophy,</l>
+                     <l>That <hi>ſilly</hi> Rabble</l>
+                     <l>Whoſe falſe-pretended Love of Truth was ſpent in Babble,</l>
+                     <l>Did with Prepoſterous Civility</l>
+                     <l>Neglect Fair <hi>Virtue,</hi> onely Courting <hi>Thee;</hi>
+                     </l>
+                     <l>But ſunk by this ſo deep in Thy Diſgrace,</l>
+                     <l>They ſcarce obtain'd one <hi>Conſtant Look</hi> from Thy <hi>ſweet Face.</hi>
+                     </l>
+                     <l>Rather, indeed, I fear, in ſtead of <hi>Thee,</hi>
+                     </l>
+                     <l>They woo'd ſome othe'r <hi>Imaginary</hi> She;</l>
+                     <l>And, like to Men in <hi>Dreams,</hi> they idly talk't</l>
+                     <l>Of ſome fine <hi>Faiery</hi> Toy that in their <hi>Fancies</hi> walk't:</l>
+                     <pb n="14" facs="tcp:43712:10"/>
+                     <l>For they that know not where their <hi>Journey</hi> ends,</l>
+                     <l>How ſhould they <hi>Science</hi> know, the <hi>Way</hi> that thither <hi>tends?</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <head>IV.</head>
+                     <l>
+                        <hi>(d)</hi> Thou art that Rare</l>
+                     <l>Rich <hi>Chain of Gold</hi> let down</l>
+                     <l>From Heav'n's <hi>ſure-fixt Throne,</hi>
+                     </l>
+                     <l>Which tyes the Earth, his Foot-ſtool, to <hi>Joves</hi> Chair.</l>
+                     <l>
+                        <hi>Jacob's</hi> well-fram'd <hi>Ladder;</hi> which</l>
+                     <l>Preſſes Earth, yet Heav'n does reach:</l>
+                     <l>Whence by immediate Steps we climb</l>
+                     <l>From Nature 'bove the ſphere of Time,</l>
+                     <l>And with Familiar Sight deſcry</l>
+                     <l>What Vulgar Eyes think <hi>Myſtery.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Adam,</hi> until he was unmann'd</l>
+                     <l>By that Fair Apple, diſh't up in <hi>Eve's</hi> Fairer Hand,</l>
+                     <l>And that <hi>ſin-poyſon'd</hi> Fruit its Venome ſpread,</l>
+                     <l>On <hi>better</hi> Meat, Bleſt <hi>Contemplation,</hi> fed.</l>
+                     <l>Each Lively and Full-breaſted Thought</l>
+                     <l>A <hi>Rich Meal</hi> brought,</l>
+                     <l>Made up of daintieſt <hi>Rarities,</hi>
+                     </l>
+                     <l>Which took <hi>Root</hi> in his own, <hi>branch't</hi> to th' Supernal Paradiſe.</l>
+                     <l>But when the Black Fiend, <hi>Sin,</hi> poſſeſt</l>
+                     <l>It's curſed ſelf of his Soul's Breaſt,</l>
+                     <l>Her ſame-colour'd Friend and Shade,</l>
+                     <l>Dark <hi>Ignorance,</hi>
+                     </l>
+                     <l>Did his beſotted Soul invade</l>
+                     <l>And all his former Powers <hi>Intrance.</hi>
+                     </l>
+                     <l>His Vigorous Knowledge was thereby</l>
+                     <l>Doz'd to a ſtupid <hi>Lethargy;</hi>
+                     </l>
+                     <l>Which ſaddeſt Legacy we <hi>inherit</hi> ſtill,</l>
+                     <l>A <hi>Dark Night</hi> in our <hi>Mind,</hi> a <hi>Dull Sleep</hi> in our <hi>Will.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <head>V.</head>
+                     <l>But Thou, <hi>Bright <hi>Science,</hi>
+                        </hi> doſt diſpel</l>
+                     <l>Thoſe <hi>Lazy Miſts</hi> exhal'd from <hi>Hell,</hi>
+                     </l>
+                     <pb n="15" facs="tcp:43712:10"/>
+                     <l>Which <hi>ſtifle</hi> Virtue, <hi>cloud</hi> our Day,</l>
+                     <l>
+                        <hi>Reflect,</hi> or elſe <hi>Refract</hi> Heav'ns Ray.</l>
+                     <l>Thou reſcu'ſt Reaſon, purgeſt Senſe</l>
+                     <l>From that <hi>Original</hi> Offence.</l>
+                     <l>And, as who Lovely Objects ſpies</l>
+                     <l>By the Soul's <hi>Spectacles</hi> and <hi>Burning-Glaſs,</hi> the <hi>Eyes,</hi>
+                     </l>
+                     <l>Catches Love's Fire</l>
+                     <l>With far <hi>more</hi> Vigorous Deſire</l>
+                     <l>Than others could</l>
+                     <l>By what dull <hi>Sounds</hi> and <hi>Hearſay</hi> told;</l>
+                     <l>Such is th' Advantage Thou win'ſt here,</l>
+                     <l>As <hi>Sight</hi> are <hi>Sound,</hi> and <hi>Eye</hi> o're <hi>Ear.</hi>
+                     </l>
+                     <l>Thy clear Propoſals gather, and draw Heaven in</l>
+                     <l>Thro' the Soul's widen'd Pores, and ſqueez out putrid Sin.</l>
+                     <l>
+                        <hi>(e) Faith</hi> but ſupplies thy room, and brings</l>
+                     <l>Heav'n wrapt in <hi>Words,</hi> thou writ in <hi>Things:</hi>
+                     </l>
+                     <l>
+                        <hi>Faith's</hi> Leſſon all may read that look,</l>
+                     <l>But thine's the <hi>Clearer,</hi> yet the <hi>Harder</hi> Book;</l>
+                     <l>Oh Book! Oh World! Oh <hi>Sun</hi> clad in <hi>thin</hi> ſhade!</l>
+                     <l>Oh Book the <hi>Best,</hi> and <hi>All</hi> that God e're made!</l>
+                     <l>Dull Clods, Drops, Sparks thou ſeem'ſt to be,</l>
+                     <l>Small Atomes of <hi>Great Entity;</hi>
+                     </l>
+                     <l>But, Big with GOD is thy each part,</l>
+                     <l>And <hi>Vaſter Truths</hi> far than thy <hi>Whole Self</hi> art.</l>
+                  </lg>
+                  <lg>
+                     <head>VI.</head>
+                     <l>The Architect, and Owner of this <hi>All</hi>
+                     </l>
+                     <l>Delivered out in <hi>Groſs</hi>
+                     </l>
+                     <l>The All-rich Ball,</l>
+                     <l>In Number, Meaſure, Weight,</l>
+                     <l>Proportioned aright,</l>
+                     <l>And bid us <hi>Traffick</hi> with 't and thrive;</l>
+                     <l>But we were at a Loſs,</l>
+                     <l>None could into it's <hi>hidden</hi> Treaſures rightly dive;</l>
+                     <l>'Till his Wiſe Steward, <hi>Science,</hi> came,</l>
+                     <l>Acquainted with her Maſter's Will,</l>
+                     <l>And with rare Skill</l>
+                     <pb n="16" facs="tcp:43712:11"/>
+                     <l>
+                        <ref target="#A60174-2NOTEF">
+                           <hi>(f)</hi>
+                        </ref> Did ſubtly take in pieces the vaſt Frame;</l>
+                     <l>And to Heav'ns Merchandize the more to wooe us,</l>
+                     <l>
+                        <hi>Detail'd</hi> in Parcels, and chaw'd <hi>ſmall</hi> the <hi>too-great</hi> Morſel to us.</l>
+                  </lg>
+                  <lg>
+                     <l>When <hi>Prudence,</hi> the wiſe Governeſs</l>
+                     <l>Of <hi>Virtue's</hi> Family, would try</l>
+                     <l>A Pattern of her perfect Managery,</l>
+                     <l>And <hi>Rational Actions,</hi> her ſweet <hi>Children,</hi> dreſs;</l>
+                     <l>Fixing upon them in fit places</l>
+                     <l>Her whole bright Set of <hi>Circumſtantial Graces;</hi>
+                     </l>
+                     <l>By thy ſquare, <hi>Science,</hi> ſhe each Line doth draw,</l>
+                     <l>And makes thy Word her <hi>Rule,</hi> thy Dictates <hi>Law.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <head>VII.</head>
+                     <l>
+                        <ref target="#A60174-2NOTEG">
+                           <hi>(g)</hi>
+                        </ref> When <hi>Virtue</hi> her ſelf to Heaven a Journey takes,</l>
+                     <l>And quaintly dreſſes</l>
+                     <l>Her ſhining Treſſes</l>
+                     <l>With the moſt Curious and Enamouring Art,</l>
+                     <l>To raviſh ſo the High King's Heart;</l>
+                     <l>Fair <hi>Science,</hi> thy Bright <hi>Eye</hi> her <hi>Looking-Glaſs</hi> ſhe makes.</l>
+                     <l>In thine Eye, Reaſons beſt Mirrour,</l>
+                     <l>She can ſpy each ſlender Errour,</l>
+                     <l>And the leaſt Blemiſh of Deformity,</l>
+                     <l>
+                        <ref target="#A60174-2NOTEH">
+                           <hi>(h)</hi>
+                        </ref> What's <hi>wrinkled, looſely ſet,</hi> or <hi>pinn'd awry.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <ref target="#A60174-2NOTEI">
+                           <hi>(i)</hi>
+                        </ref> When <hi>Muſick</hi> would the raviſh'd Soul beguile</l>
+                     <l>To dwell in the <hi>Ear's</hi> Labyrinth a while,</l>
+                     <l>(Nature's well-ecchoing <hi>Muſick-room</hi>)</l>
+                     <l>Whither repairs</l>
+                     <l>A pretty Quire of nimble <hi>light-foot</hi> Ayres,</l>
+                     <l>Ferry'd o're in <hi>quavering</hi> Undulations</l>
+                     <l>Interwoven on a thouſand Faſhions;</l>
+                     <l>And there preſents an <hi>unſeen Maſque</hi> of Sounds,</l>
+                     <l>Sent from the <hi>Tattling</hi> Strings, or <hi>Whiſtling</hi> Pipes Rebounds:</l>
+                     <l>While She makes <hi>Friends</hi> in Conſort each <hi>Diſcording</hi> Part,</l>
+                     <l>Her Art tunes <hi>Inſtruments,</hi> but <hi>Science</hi> tunes her <hi>Art.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <pb n="17" facs="tcp:43712:11"/>
+                     <head>VIII.</head>
+                     <l>Thou art that Bright</l>
+                     <l>
+                        <hi>Reſerve</hi> of Light</l>
+                     <l>For the <hi>Wiſe</hi> Church, when grown</l>
+                     <l>From <hi>Unripe Nonage</hi> to her <hi>Manly Noon.</hi>
+                     </l>
+                     <l>Her Youth's <hi>School-Maſter,</hi> dark <hi>Credulity,</hi>
+                     </l>
+                     <l>Too weak to govern mankind now a <hi>Child</hi> no longer</l>
+                     <l>But fit for th' <hi>Univerſity,</hi>
+                     </l>
+                     <l>Will her dear Charge to Thee <hi>in Part</hi> reſign</l>
+                     <l>And thoſe <hi>Soul-binding</hi> Charms of thine,</l>
+                     <l>To govern ſuch a <hi>Free-born</hi> Subject <hi>ſtronger.</hi>
+                     </l>
+                     <l>GOD is the <hi>Fountain-Sun,</hi> Thou his <hi>ne're-changing Moon,</hi>
+                     </l>
+                     <l>That deal'ſt as great a ſhare of <hi>Borrow'd</hi> Light</l>
+                     <l>As can conſiſt with our <hi>Fleſh-veiled</hi> ſight:</l>
+                     <l>Fair <hi>Dawning</hi> to <hi>Bright Bliſs,</hi> Dark <hi>Nature's</hi> fulleſt <hi>Noon.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <head>IX.</head>
+                     <l>But, ah! my liſping Lyre</l>
+                     <l>Is now quite <hi>ſpent,</hi> yet Thou art ſtill <hi>Intire.</hi>
+                     </l>
+                     <l>Farewel Bright <hi>Science,</hi> thrice farewel:</l>
+                     <l>Yet part not <hi>from</hi>
+                     </l>
+                     <l>My Soul, ſuch kind of Houſes uſe to be thy <hi>Home.</hi>
+                     </l>
+                     <l>Nature has built Thee there fine <hi>(k) Chriſtal</hi> Rooms;</l>
+                     <l>And I will wooe</l>
+                     <l>
+                        <hi>Virtue</hi> her ſelf to ſtrow</l>
+                     <l>There for Thee her <hi>Beſt</hi> Perfumes.</l>
+                     <l>The Fabrick thou'lt <hi>embrave</hi> beyond all Art and Praiſe</l>
+                     <l>With thy own <hi>Soul-guilding</hi> Rayes.</l>
+                     <l>
+                        <hi>There, there</hi> vouchſafe to dwell,</l>
+                     <l>
+                        <hi>There, there</hi> farewel.</l>
+                     <l>Farewel <hi>in me,</hi> and thy Dear Self improve</l>
+                     <l>To <hi>Full Light</hi> in my <hi>Head,</hi> and, in my <hi>Heart, Firm Love.</hi>
+                     </l>
+                  </lg>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+            <back>
+               <div type="endnotes">
+                  <pb n="18" facs="tcp:43712:12"/>
+                  <head>ANNOTATIONS.</head>
+                  <div xml:id="A60174-2NOTEA" n="a" type="note">
+                     <p>
+                        <label>(a)</label> WHat is meant here by <hi>Science,</hi> is already declar'd in the Pre<g ref="char:EOLhyphen"/>face; <hi>viz.</hi> All thoſe Knowledges, whether acquir'd by <hi>Prayer</hi> or <hi>Study,</hi> which, ſuperadded to <hi>Faith,</hi> are apt to render it <hi>Live<g ref="char:EOLhyphen"/>ly.</hi> And indeed, ſhould we restrain the <hi>common</hi> ſignification of that word (which imports no more but <hi>Knowledge</hi>) to the <hi>Stricter</hi> Senſe in which the Schools take it, nothing ought (even ſpeaking of Natural Objects) in true ſpeech to be called <hi>Science,</hi> unleſs it be in ſome Sort deriv'd from God, and by means of that Derivation, be apt to raiſe us to the Knowledge of Him: For, ſince all Truths are <hi>Connected,</hi> and <hi>Science</hi> is the Knowing of things by their <hi>Cauſes;</hi> hence, only ſuch Knowledges as relate to the <hi>Firſt Truth,</hi> and inform us of the Derivation of Things from the <hi>Firſt Cauſe,</hi> or of their Connexion with it, can pretend to the Honour of being reputed <hi>True Sciences:</hi> For which reaſon the <hi>Epicureans,</hi> who deny a <hi>Firſt Cauſe,</hi> and hold all things to be done by <hi>Chance,</hi> can lay no Claim to <hi>Scientifical</hi> Knowledge of any thing in Nature; Whence, of all other Sects of Philoſophers, Their Principles are the moſt <hi>Abſurd, Precari<g ref="char:EOLhyphen"/>ous,</hi> and <hi>Inconſiſtent.</hi>
+                     </p>
+                     <p>Moreover, <hi>Science</hi> is intended to <hi>Perfect</hi> the <hi>Underſtanding</hi> Faculty; but when 'tis <hi>Practical,</hi> and fits the Soul for <hi>Action,</hi> that is (in our caſe) for the <hi>Love of God,</hi> then 'tis <hi>Full, Lively,</hi> and in <hi>that</hi> state, which makes <hi>Science</hi> be as it ſhould be, that is <hi>Unmixt with Ignorance:</hi> Whereas, when 'tis meer<g ref="char:EOLhyphen"/>ly <hi>Speculative</hi> and <hi>Unactive,</hi> 'tis Weak, Faint, ofttimes Airy, and alwayes (as to Heaven) <g ref="char:V">Ʋ</g>ſeleſs; and by reaſon of it's Imperfection, being alloy'd with ſome degree of <hi>Ignorance,</hi> it degenerates from the Sincere and Genuine nature of <hi>Knowledge.</hi> For it is to be noted, that <hi>Virtue</hi> and <hi>Science</hi> are here treated of, as in their Abſtracted <hi>Ideas,</hi> or as perfectly depur'd from all their <hi>Imper<g ref="char:EOLhyphen"/>fections;</hi> as may be ſeen in the third <hi>Stanza</hi> upon <hi>Virtue,</hi> and in the 7th. and 8th. <hi>Stanzas</hi> here. With which it may well conſist, that there may be many in<g ref="char:EOLhyphen"/>ferior Degrees of both of them, that are not acquired either by Art of Contempla<g ref="char:EOLhyphen"/>tion, but are <hi>Inſtill'd</hi> by the Common Doctrine and Diſcipline of the <hi>Church,</hi> which may ſuffice to bring Souls to Heaven <hi>ſooner</hi> or <hi>later,</hi> tho' they may not perhaps come ſo high, as to diſpoſe them <hi>Immediately</hi> for the Beatifical Viſion; this being only attainable by thoſe, who are <hi>Pure in Heart,</hi> and cleans'd from <hi>all</hi> Inordinate By-Affections to Creatures; which requires more than <hi>Common</hi> Illuminations.</p>
+                  </div>
+                  <div xml:id="A60174-2NOTEB" n="b" type="note">
+                     <p>
+                        <label>(b)</label> For the Connatural way to <hi>Love</hi> any things, is to <hi>Know</hi> and <hi>Conceit Lively</hi> the Goodneſs that is in it; and therefore <hi>Regularly,</hi> and in due order of Nature, according to the <hi>Expreſs</hi> and <hi>Lively</hi> Knowledge a Soul has of Coeleſtial Goods; ſo great in proportion is her <hi>Love</hi> of them. Whence, whenever ſhe falls into <hi>Sin,</hi> or Loves not Heaven as ſhe ought, 'tis becauſe ſome Temporary or <hi>Falſe</hi> Good, making a more Agreeable Appearance to her at that unlucky Seaſon, the Knowledge of the <hi>Incomparable Good</hi> of Heaven, which ſhe had before, is <hi>Darken'd</hi> and <hi>Dimm'd</hi> by Paſſion, or (which is the ſame) by too much affection to ſome Creature; according to that ſaying of Divines, <hi>Omnis peccans igno<g ref="char:EOLhyphen"/>rat, Every one that ſins is</hi> (to ſome degree) <hi>Ignorant.</hi> How far Ignorance is <hi>Culpable</hi> or <hi>Excuſable,</hi> belongs to that Great Judge to determine who knows the Heart? Only this we can certainly affirm in common, by the Light we have from Chriſtian Principles, that whenever the affection to any Creature ſo <hi>beſots</hi> and <hi>Blinds</hi> us that we do not <hi>Love Heaven above all things,</hi> but fail in thoſe Duties which only can diſpoſe us to attain it, we are plunging our Souls into that ſad condition, which, unrepented of, muſt inevitably bring us to Eternal Mi<g ref="char:EOLhyphen"/>ſery; when our Jolly Days, ſo careleſly ſpent, are past, which God only knows how <hi>few</hi> they may be.</p>
+                     <pb n="19" facs="tcp:43712:12"/>
+                  </div>
+                  <div xml:id="A60174-2NOTEC" n="c" type="note">
+                     <p>
+                        <label>(c)</label> To illustrate this Point held by ſome Great Divines, we may reflect, that, as when in other Animals the Brain is <hi>Full</hi> of <hi>Species,</hi> or Particles re<g ref="char:EOLhyphen"/>ceiv'd from any Object that is agreeable to their Natures, it happens, that by this <hi>Total</hi> poſſeſſing of the Fancy, abundance of Spirits are ſent forth thence into other parts, whence the Animal becomes <hi>Active</hi> and <hi>Eager</hi> to purſue it; which Principle or <hi>Power</hi> of <hi>Acting</hi> we uſe to call <hi>Appetite</hi> or <hi>Senſitive Love</hi> of it: In the ſame manner, when, in a Rational Creature or <hi>Man,</hi> the <g ref="char:V">Ʋ</g>nderſtanding is <hi>Wholly</hi> taken up with the Knowledge of Heaven, clearly appearing to it as its <hi>onely True</hi> and <hi>Eternal Good,</hi> that <hi>Fullneſs</hi> of Hea<g ref="char:EOLhyphen"/>venly Thoughts excludes and hinders the <hi>Co-exiſtence,</hi> much more the <hi>Com<g ref="char:EOLhyphen"/>petition</hi> of the deluding and ſeducing Appearances of <hi>Tranſitory Goods;</hi> whence the whole Man ſtrains towards the attainment of it, and becomes <hi>Ac<g ref="char:EOLhyphen"/>tive</hi> to purſue; which Knowledge, now made a ſtrong <hi>Practical</hi> Judgment and <hi>Operative,</hi> does the ſame that the <hi>Will</hi> uſes and is to <hi>do,</hi> and therefore (ſay they) 'tis the <hi>ſame Power</hi> which we call the <hi>Will:</hi> Whence the Great St. <hi>Auſtin,</hi> no leſs ſolidly than acutely, ſays that the <hi>Underſtanding</hi> and <hi>Will</hi> do differ as <hi>Luna ſemiplena</hi> and plena; that is, as the Moon <hi>Half-full</hi> and <hi>Full.</hi>
+                     </p>
+                     <p>To apply this to our Point in hand: In the ſame manner that theſe <hi>Powers,</hi> called the <hi>Underſtanding</hi> and <hi>Will,</hi> do differ; ſo, in the ſame proportion (ac<g ref="char:EOLhyphen"/>cording to this Opinion) muſt <hi>Knowledge</hi> and <hi>Love of Heaven,</hi> (that is, <hi>Science</hi> and <hi>Virtue)</hi> which are the <hi>Acts,</hi> or rather <hi>Habits,</hi> of thoſe <hi>Powers</hi> be diſtinct alſo; and the Difference between them, if we take <hi>Knowledge</hi> as in its perfect State, is this, that the <hi>One</hi> is conſider'd as receiv'd from Outward Objects, and perfecting the Soul interiourly, as it is <hi>Intellective;</hi> and the <hi>Other,</hi> as it has reſpect to thoſe <hi>Acts</hi> it is to produce, and to the End it is apt to work for or purſue.</p>
+                     <p>The <hi>Uſefulneſs</hi> of this Doctrine may ſeem to evince its <hi>Truth:</hi> For, hence we may clearly ſee that the <hi>only ſecure</hi> way to reſiſt Temptations, to avoid Sin, to raiſe our Souls to Heaven and keep them up at that pitch, and (in a word) to manage our Actions ſo as to attain to Salvation, conſiſts in this, that either we fix and rivet in our Minds by wiſe Reflexions ſtrong and ſteady <hi>Habitual</hi> Judgments of the <hi>Incomparable Good</hi> of Heavenly Bliſs, and of the <hi>Nothing<g ref="char:EOLhyphen"/>neſs</hi> in compariſon of all <hi>Temporary</hi> Goods, which is the Way Proper for the <hi>Learned</hi> and more <hi>Elevated</hi> Souls. Or elſe by Frequent Dints and Impreſſions made by conſtant Prayer, Devout Reading, Pious Diſcourſes, <g ref="char:V">Ʋ</g>ſe of Sacraments, <hi>&amp;c.</hi> To lay up in our Souls Great store of <hi>Spiritual Ideas,</hi> and <hi>Expreſs</hi> conceits of <hi>Heavenly</hi> Objects, ſo that they may be ready and at hand to make head againſt, and ſubdue the <hi>Weaker Band</hi> of the Impreſſions made by <hi>Falſe Goods</hi> aſſaulting our Fancies with their <hi>Gloſſy</hi> and <hi>Sophiſticate</hi> appearances, and Tempting us to follow their <hi>Sinful Suggeſtions.</hi> For our conſtant Experience informs us upon a Curſory Reflexion, that we never <hi>Conquer</hi> in our Spiritual <hi>Warfare,</hi> but when we are well furniſht with ſuch <hi>Heavenly Ideas,</hi> which keep our Soul upon her Guard, and Fortify her with the <hi>Lively</hi> Repreſenta<g ref="char:EOLhyphen"/>tions of our <hi>True Good;</hi> and that, on the other ſide, we are never <hi>Overcome,</hi> but when, thro' our Neglecting to ſtand prepared for our Christian <hi>Battel,</hi> we have either <hi>Rang'd</hi> but a <hi>Thin Troop</hi> of Heavenly Thoughts on Rea<g ref="char:EOLhyphen"/>ſons fide; or elſe, thro' our <hi>Slack Diſcipline,</hi> we keep them not <hi>Watchful</hi> to repell the <hi>Fiery Darts</hi> of Concupiſcence, which our Ghoſtly Enemy makes uſe of when he aſſails us. Whence Aſſiduity and Conſtancy in our Spiritual Exerciſes, and Devout Duties, not <hi>for Faſhions ſake,</hi> but out of a <hi>Sincere</hi> and True Intention to bear up to Heaven, is the Only <hi>Sure</hi> and <hi>Effectual</hi> way to attain it; and whenever we grow Careleſs and Negligent in perfor<g ref="char:EOLhyphen"/>ming thoſe Duties, we do moſt certainly lie Expos'd to the Stratagems of our Adverſary the Devil, and are in imminent danger of being <hi>Spiritually Wound<g ref="char:EOLhyphen"/>ed</hi> by <hi>Sin;</hi> and if that Wound be <hi>Mortal,</hi> of <hi>Spiritual Death,</hi> Eternal Damnation.</p>
+                     <pb facs="tcp:43712:13" rendition="simple:additions"/>
+                  </div>
+                  <div xml:id="A60174-2NOTEE" n="e" type="note">
+                     <p>
+                        <label>(e)</label> Had all Men <hi>Perfect Science</hi> of the Excellency of Heavenly Bliſs (of which we onely Treat here) <hi>Faith</hi> would not be needful for that particu<g ref="char:EOLhyphen"/>lar; neither (if all other Reſpects were <hi>Equal</hi>) would there be ſo much <hi>Sin</hi> in the World? Which is one Reaſon why the Saints in Heaven are abſolutely incapable of <hi>Sinning,</hi> or <hi>falling</hi> from their <hi>Happy State.</hi>
+                     </p>
+                  </div>
+                  <div xml:id="A60174-2NOTEF" n="f" type="note">
+                     <p>
+                        <label>(f)</label> By conſidering the Particularities, found in each Piece of Nature, <hi>a<g ref="char:EOLhyphen"/>part;</hi> which, thus <hi>ſingled out,</hi> become fit to be the Objects of the ſeveral <hi>Sci<g ref="char:EOLhyphen"/>ences</hi> that Treat of them: Whereas, were thoſe Diſtinct Conſiderations <hi>blen<g ref="char:EOLhyphen"/>ded</hi> together confuſedly as they are found in the Thing it ſelf, our <hi>Imperfect</hi> way of Knowing, being unable to comprehend the <hi>whole</hi> Object, and all the <hi>ſe<g ref="char:EOLhyphen"/>veral Reſpects</hi> that belong to it at one <hi>Intuitive</hi> View (as do the Angels) and conſequently, not being able to <hi>fathom</hi> it, we could not have any <hi>Science</hi> at all of it.</p>
+                  </div>
+                  <div xml:id="A60174-2NOTEG" n="g" type="note">
+                     <p>
+                        <label>(g)</label> To <hi>accompliſh</hi> a Soul in <hi>Exact</hi> Virtue, either our <hi>own</hi> Knowledge, enabling us to look <hi>thorowly</hi> into Christian Principles and our own <hi>Interiour;</hi> or, the Guidance of Skilful and <hi>Knowing</hi> Spiritual Directors is abſolutely ne<g ref="char:EOLhyphen"/>ceſſary; without which many <hi>Imperfections</hi> and <hi>Deviations</hi> from the <hi>ſtraight</hi> Rule of Chriſtian Morality must needs happen.</p>
+                  </div>
+                  <div xml:id="A60174-2NOTEH" n="h" type="note">
+                     <p>
+                        <label>(h)</label> That is, what's <hi>Uneven</hi> and <hi>Inconſiſtent;</hi> what <hi>Tepid</hi> and <hi>Weak</hi> thro' want of Habitual <hi>Steadineſs</hi> and <hi>
+                           <gap reason="illegible" resp="#UOM" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>rmneſs;</hi> and what's <hi>againſt</hi> the Ex<g ref="char:EOLhyphen"/>act Rule of Christ's most <hi>Immaculate</hi> Law, or <hi>beſide</hi> that Rule.</p>
+                  </div>
+                  <div xml:id="A60174-2NOTEI" n="i" type="note">
+                     <p>
+                        <label>(i)</label> It being too tedious, and indeed impertinent, to mention the other Li<g ref="char:EOLhyphen"/>beral Sciences, notice is here taken of <hi>Muſick</hi> onely; which is us'd in all Pub<g ref="char:EOLhyphen"/>lick Solemnities as an Incitement to <hi>Devotion,</hi> and abſolutely neceſſary for <hi>Sa<g ref="char:EOLhyphen"/>cred Poeſie, (Pſalms</hi> and <hi>Hymns)</hi> in which the moſt Soul-melting Strains of Piety are deliver'd.</p>
+                  </div>
+                  <div xml:id="A60174-2NOTEK" n="k" type="note">
+                     <p>
+                        <label>(k)</label> An <hi>Intellectual</hi> or <hi>Spiritual</hi> Nature.</p>
+                  </div>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </back>
+         </text>
+      </group>
+   </text>
+</TEI>
